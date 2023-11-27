@@ -1,2 +1,2 @@
 ## Splash-Engine AS3
-An engine for creating games in ActionScript3
+An engine to create games in ActionScript3
